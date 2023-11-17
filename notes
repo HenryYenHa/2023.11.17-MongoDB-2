@@ -1,0 +1,4 @@
+npm i express (in case if we dont have it already)
+npm i nodemon (for nodemon for continual)
+npm i cors (if nodemon fails to work)
+npm i monogodb
